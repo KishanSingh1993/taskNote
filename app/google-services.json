@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "117937660419",
+    "firebase_url": "https://taskmanagement-c8c49.firebaseio.com",
+    "project_id": "taskmanagement-c8c49",
+    "storage_bucket": "taskmanagement-c8c49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117937660419:android:313a130af3a2052eba2436",
+        "android_client_info": {
+          "package_name": "com.eduforyou.taskmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117937660419-hf9m2innckcd5vuaqlbt6ppv70dkf4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoYRKGE6CEalMxu5TTTNXsS897Bee2EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117937660419-hf9m2innckcd5vuaqlbt6ppv70dkf4ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117937660419:android:953c4add433d2065ba2436",
+        "android_client_info": {
+          "package_name": "com.jubilant.pspl.myjubilant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117937660419-hf9m2innckcd5vuaqlbt6ppv70dkf4ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXoYRKGE6CEalMxu5TTTNXsS897Bee2EQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117937660419-hf9m2innckcd5vuaqlbt6ppv70dkf4ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
